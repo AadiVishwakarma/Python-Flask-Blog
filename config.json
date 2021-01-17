@@ -1,0 +1,22 @@
+{
+    "parameters":
+    {
+        "local_server": "True",
+        "local_uri": "mysql+mysqlconnector://root:@localhost/nutcrack",
+        "prod_uri": "mysql+mysqlconnector://root:@localhost/nutcrack",
+        "fb_url": "https://facebook.com/nutcrack",
+        "tw_url": "https://twitter.com/nutcrack",
+        "gh_url": "https://github.com/nutcrack",
+        "blog_name": "Aadi Vibes",
+        "tag_line": "Question your ideology!",
+        "gmail-user": "aadi.vishwakarma.engineer@gmail.com",
+        "gmail-password": "+what+is+going+on+",
+        "about_text" : "Hi my name is Aditya Vishwakarma ",
+        "no_of_posts" : 2,
+        "login_image":"login.svg",
+        "admin_user":"Aadi",
+        "admin_password": "hello+guys",
+        "upload_location": "F:\\Flask\\Flask_Harry\\file upload"
+    }
+
+}
